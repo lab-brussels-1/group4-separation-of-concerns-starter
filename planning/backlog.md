@@ -1,6 +1,6 @@
-## Backlog
+# Backlog
 
-### Must-Have
+## Must-Have
 
 - Clear title and Logo
 - `a post to engage user`
@@ -10,12 +10,12 @@
 - `upvote button`
 - `downvote button`
 
-### Should-Have
+## Should-Have
 
 - Vibrant Css Styling
 - Sound when pressing buttons
 
-### Could-Have
+## Could-Have
 
 - Differnt background per comment
 - Vote counter
