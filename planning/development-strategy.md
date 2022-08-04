@@ -46,16 +46,16 @@ button and downvote comment button.
 
 ### constants
 
-- The constants will be put in `constants.js`
+- The constants will be put in `/data/constants.js`
 
 ### Listeners
 
-- The listeners will be stored in `listeners.js`
+- The listeners will be stored in `/src/listeners`
 
 ### Utils
 
-- the utils will be stored in `utils.js`
+- the utils will be stored in `/src/utils`
 
 ### Handlers
 
-- the handlers will be stored in `handlers.js`
+- the handlers will be stored in `/src/handlers`
