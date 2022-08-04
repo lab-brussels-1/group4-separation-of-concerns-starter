@@ -1,23 +1,16 @@
-# Availability
+# communication plan
 
-## Friday:
-### Ali:
-- 11-17
-### Shewit:
-- 
+## Availability
 
-### Alex:
-- 
+| Day    |  Monday  | Tuesday  | Wednesday | Thursday |   Friday   |  Saturday  |
+| ------ | :------: | :------: | :-------: | :------: | :--------: | :--------: |
+| Alex   | 8am-11pm | 8am-11pm | 8am-11pm  | 1pm-11pm | 5pm - 11pm | 8am - 11pm |
+| Ali    |          |          |           |          | 7pm - 11pm | 7pm - 11pm |
+| Shewit |    -     |          |           |          |            |            |
 
-_____
-## Saturday
+## Communication tools
 
-### Ali:
-- 11-17
-### Shewit:
-- 
-
-### Alex:
-- 
-
-_____
+- Slack
+- GitHub Pull request review
+- Zoom
+- Discord

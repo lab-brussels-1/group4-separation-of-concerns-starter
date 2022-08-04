@@ -1,20 +1,22 @@
 # Backlog
 
-## Must-Haves
+## Must-Have
 
-> these are necessary for basic usability
+- Clear title and Logo
+- `a post to engage user`
+- `add a comment button`
+- `remove a comment button`
+- `edit a comment button`
 
-- add new comment
-- remove any comment
-- edit the comment
+## Should-Have
 
-## Should-Haves
-
-> these will complete the user experience, but are not necessary
+- Vibrant Css Styling
+- Sound when pressing buttons
 
 - upvote/downvote a comment
 - make a new post rather than just a comment
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+- Different background per comment
+- Vote counter
