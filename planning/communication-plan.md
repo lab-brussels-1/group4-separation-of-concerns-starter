@@ -2,11 +2,11 @@
 
 ## Availability
 
-| Day      |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday  | Sunday |
-| -------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :----: |
-| _Alex_   | 8am - 11pm | 8am - 11pm | 8am - 11pm | 1pm - 11pm | 5pm - 11pm | 8am - 11pm |  off   |
-| _Ali_    |            |            |            |            |            |            |        |
-| _Shewit_ |     -      |            |            |            |            |            |        |
+| Day    |  Monday  | Tuesday  | Wednesday | Thursday |   Friday   |  Saturday  |
+| ------ | :------: | :------: | :-------: | :------: | :--------: | :--------: |
+| Alex   | 8am-11pm | 8am-11pm | 8am-11pm  | 1pm-11pm | 5pm - 11pm | 8am - 11pm |
+| Ali    |          |          |           |          |            |            |
+| Shewit |    -     |          |           |          |            |            |
 
 ## Communication tools
 
