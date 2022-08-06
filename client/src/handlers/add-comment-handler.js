@@ -1,3 +1,5 @@
+/* eslint-disable indent */
+/* eslint-disable no-tabs */
 /* eslint-disable sonarjs/no-duplicate-string */
 import { INPUT_ID, OUTPUT_ID } from '../../data/constants.js';
 
