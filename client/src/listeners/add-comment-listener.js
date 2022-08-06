@@ -1,3 +1,5 @@
+/* eslint-disable indent */
+/* eslint-disable no-tabs */
 import { ADD_EVENT } from '../../data/constants.js';
 import { addCommentHandle } from '../handlers/add-comment-handler.js';
 
