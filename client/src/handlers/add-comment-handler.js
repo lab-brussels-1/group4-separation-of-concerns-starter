@@ -57,7 +57,6 @@ export const addCommentHandle = () => {
 	document.getElementById('comment-buttons-id').appendChild(removeButton);
 	removeButton.addEventListener(ADD_EVENT, removeCommentHandler);
 
-
 	// creating a p element to display the input paragraphSeparator
 	const commentP = document.getElementById(INPUT_ID).value;
 	const pEl = document.createElement('p');
