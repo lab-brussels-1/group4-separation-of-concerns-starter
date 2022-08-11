@@ -1,7 +1,8 @@
 /* eslint-disable indent */
 /* eslint-disable no-tabs */
 /* eslint-disable sonarjs/no-duplicate-string */
-import { INPUT_ID, OUTPUT_ID } from '../../data/constants.js';
+import { INPUT_ID, OUTPUT_ID, ADD_EVENT } from '../../data/constants.js';
+import { removeCommentHandler } from './remove-comment-handler.js';
 
 export const addCommentHandle = () => {
 	const commentParent = document.getElementById('content-container');
@@ -54,6 +55,7 @@ export const addCommentHandle = () => {
 	removeButton.type = 'button';
 	removeButton.innerHTML = 'x';
 	document.getElementById('comment-buttons-id').appendChild(removeButton);
+	removeButton.addEventListener(ADD_EVENT, removeCommentHandler);
 
 	// creating a p element to display the input paragraphSeparator
 	const commentP = document.getElementById(INPUT_ID).value;
