@@ -1,6 +1,7 @@
 /* eslint-disable indent */
 /* eslint-disable no-tabs */
-export const removeCommentHandler = () => {
-	const parentEl = document.getElementById('comment-section-id');
-	parentEl.remove();
+export const removeCommentHandler = (ev) => {
+	if (ev.target.classList.contains('remove-button')) {
+		ev.target.parentElement.parentElement.remove();
+	}
 };
