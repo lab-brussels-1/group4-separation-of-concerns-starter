@@ -1,3 +1,5 @@
+/* eslint-disable indent */
+/* eslint-disable no-tabs */
 export const editCommentClicked = (ev) => {
 	// if the button clicked was an edit button which has a class of edit button
 	if (ev.target.classList.contains('edit-button')) {
